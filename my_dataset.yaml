@@ -1,6 +1,6 @@
 # Please insure that your custom_dataset are put in same parent dir with YOLOv6_DIR
-train: D:\kush\yolo_data\images\train # train images
-val: D:\kush\yolo_data\images\val # val images
+train: D:\krupa\yolo_data\images\train # train images
+val: D:\krupa\yolo_data\images\val # val images
 # test images (optional)
 
 # whether it is coco dataset, only coco dataset should be set to True.
